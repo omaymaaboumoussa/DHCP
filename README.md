@@ -38,7 +38,8 @@
    
    ![adresse physique](https://github.com/omaymaaboumoussa/DHCP/assets/137881447/b2d67ee7-44e4-4260-a505-0188548564d9)
    
-   ![reservation](https://github.com/omaymaaboumoussa/DHCP/assets/137881447/4ec76016-41c5-44b4-b9d0-3efb2bbc78dc)
+   ![reservation](https://github.com/omaymaaboumoussa/DHCP/assets/137881447/80611c73-7f63-4bf9-8f5e-e94eadbb758a)
+
 
 
 
